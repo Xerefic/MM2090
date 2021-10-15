@@ -55,6 +55,6 @@ The code as .py file; a PDF containing the original hand made image of the table
 **Language Used:** `python`
 
 **Input:** [Example 1](example_1.txt), [Example 2](example_2.txt), [Example 3](example_3.txt)
-**Output:** [Example 1]("IITM-TimeTable (example_1).png"), [Example 2]("IITM-TimeTable-v2 (exapmle_2).png"), [Example 3]("Tab-1 (example_3).png")
+**Output:** [Example 1](IITM-TimeTable_(example_1).png), [Example 2](IITM-TimeTable-v2_(exapmle_2).png), [Example 3](Tab-1_(example_3).png)
 
 **Jupyter Notebook:** [Notebook](table.ipynb)
