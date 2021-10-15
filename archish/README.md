@@ -50,3 +50,10 @@
     - [Question 2](assignment_6/question_2)
 
 ## [End Semester](end_sem/)
+ * [Problem Statements](end_sem/README.md)
+ * Solutions
+    - [Question 1](end_sem/question_1)
+    - [Question 2](end_sem/question_2)
+    - [Question 4](end_sem/question_4)
+    - [Question 5](end_sem/question_5)
+    - [Question 6](end_sem/question_6)
