@@ -16,6 +16,6 @@ to solve partial differential equations.
 
 **Language Used:** `sagemath`
 
-**Output:** [17 Triangles](17-Triangulation.png), [20 Triangles](20-Triangulation.png)
+**Output:** [17 Triangles](17-Triangulation.png), [20 Triangles](20-Triangulation.png) 
 
 **Jupyter Notebook:** [Notebook](question_4.ipynb)
