@@ -44,5 +44,9 @@
 
 ## [Assignment 6](assignment_6/)
 
+ * [Problem Statements](assignment_6/README.md)
+ * Solutions
+    - [Question 1](assignment_6/question_1)
+    - [Question 2](assignment_6/question_2)
 
 ## [End Semester](end_sem/)
