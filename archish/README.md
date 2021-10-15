@@ -22,6 +22,10 @@
 
 ## [Assignment 3](assignment_3/)
 
+ * [Problem Statements](assignment_3/README.md)
+ * Solutions
+    - [Question 1](assignment_3/question_1)
+    - [Question 2](assignment_3/question_2)
 
 ## [Assignment 4](assignment_4/)
 
