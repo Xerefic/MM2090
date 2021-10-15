@@ -29,6 +29,8 @@
 
 ## [Assignment 4](assignment_4/)
 
+ * [Problem Statements](assignment_4/README.md)
+
 
 ## [Assignment 5](assignment_5/)
 
