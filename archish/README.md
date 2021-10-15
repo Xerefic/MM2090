@@ -34,6 +34,13 @@
 
 ## [Assignment 5](assignment_5/)
 
+ * [Problem Statements](assignment_5/README.md)
+ * Solutions
+    - [Question 1](assignment_5/question_1)
+    - [Question 2](assignment_5/question_2)
+    - [Question 3](assignment_5/question_3)
+    - [Question 4](assignment_5/question_4)
+
 
 ## [Assignment 6](assignment_6/)
 
